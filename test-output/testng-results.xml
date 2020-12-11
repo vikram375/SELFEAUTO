@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="57333" started-at="2020-12-11T11:08:51Z" finished-at="2020-12-11T11:09:48Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="57333" started-at="2020-12-11T11:08:51Z" finished-at="2020-12-11T11:09:48Z">
+      <class name="WebFE.WebFEAuto.LaptopAdd">
+        <test-method status="PASS" signature="driver()[pri:0, instance:WebFE.WebFEAuto.LaptopAdd@5c33f1a9]" name="driver" is-config="true" duration-ms="8511" started-at="2020-12-11T16:38:51Z" finished-at="2020-12-11T16:38:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driver -->
+        <test-method status="PASS" signature="AddLaptop(java.lang.String, java.lang.String)[pri:0, instance:WebFE.WebFEAuto.LaptopAdd@5c33f1a9]" name="AddLaptop" duration-ms="9599" started-at="2020-12-11T16:38:59Z" data-provider="laptopname" finished-at="2020-12-11T16:39:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sony vaio i5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddLaptop -->
+        <test-method status="PASS" signature="AddLaptop(java.lang.String, java.lang.String)[pri:0, instance:WebFE.WebFEAuto.LaptopAdd@5c33f1a9]" name="AddLaptop" duration-ms="11199" started-at="2020-12-11T16:39:09Z" data-provider="laptopname" finished-at="2020-12-11T16:39:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dell i7 8gb]]>
+              </value>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddLaptop -->
+        <test-method status="PASS" signature="AddLaptop(java.lang.String, java.lang.String)[pri:0, instance:WebFE.WebFEAuto.LaptopAdd@5c33f1a9]" name="AddLaptop" duration-ms="11038" started-at="2020-12-11T16:39:20Z" data-provider="laptopname" finished-at="2020-12-11T16:39:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MacBook air]]>
+              </value>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddLaptop -->
+      </class> <!-- WebFE.WebFEAuto.LaptopAdd -->
+      <class name="WebFE.WebFEAuto.LaptopSetCompare">
+        <test-method status="PASS" signature="PlaceOrder()[pri:0, instance:WebFE.WebFEAuto.LaptopSetCompare@72967906]" name="PlaceOrder" duration-ms="9577" started-at="2020-12-11T16:39:38Z" finished-at="2020-12-11T16:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PlaceOrder -->
+        <test-method status="PASS" signature="compare()[pri:0, instance:WebFE.WebFEAuto.LaptopSetCompare@72967906]" name="compare" duration-ms="2" started-at="2020-12-11T16:39:47Z" finished-at="2020-12-11T16:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:WebFE.WebFEAuto.LaptopSetCompare@72967906]" name="closebrowser" is-config="true" duration-ms="807" started-at="2020-12-11T16:39:47Z" finished-at="2020-12-11T16:39:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- WebFE.WebFEAuto.LaptopSetCompare -->
+      <class name="WebFE.WebFEAuto.LaptopDelete">
+        <test-method status="PASS" signature="RemoveLaptop()[pri:0, instance:WebFE.WebFEAuto.LaptopDelete@1a482e36]" name="RemoveLaptop" duration-ms="6542" started-at="2020-12-11T16:39:31Z" finished-at="2020-12-11T16:39:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RemoveLaptop -->
+      </class> <!-- WebFE.WebFEAuto.LaptopDelete -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="WebFE.WebFEAuto.Listeners"/>
+  </listeners>
+  <test name="Test1(failed)">
+    <classes>
+      <class name="WebFE.WebFEAuto.LaptopSelect">
+        <methods>
+          <include name="RemoveLaptop"/>
+          <include name="driver"/>
+          <include name="AddLaptop"/>
+        </methods>
+      </class> <!-- WebFE.WebFEAuto.LaptopSelect -->
+      <class name="WebFE.WebFEAuto.LaptopSetCompare">
+        <methods>
+          <include name="PlaceOrder"/>
+          <include name="compare"/>
+        </methods>
+      </class> <!-- WebFE.WebFEAuto.LaptopSetCompare -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->

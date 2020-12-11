@@ -1,0 +1,23 @@
+16:04:47.437 [main] INFO  Resources.Base - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:04:47.458 [main] INFO  Resources.Base - The expected amount for the laptop is-->3680 USD
+16:04:47.459 [main] INFO  Resources.Base - The purchase amount for the laptop is-->3680 USD
+16:06:42.566 [main] INFO  Resources.Base - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:06:42.569 [main] INFO  Resources.Base - Order details are as follows -->
+16:06:42.569 [main] INFO  Resources.Base - Id: 3958869
+Amount: 1490 USD
+Card Number: 7890
+Name: Vikram
+Date: 11/11/2020
+16:06:42.569 [main] INFO  Resources.Base - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:06:42.582 [main] INFO  Resources.Base - The expected amount for the laptop is-->1490 USD
+16:06:42.582 [main] INFO  Resources.Base - The purchase amount for the laptop is-->1490 USD
+16:10:48.525 [main] INFO  Resources.Base - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:10:48.531 [main] INFO  Resources.Base - Order details are as follows -->
+16:10:48.531 [main] INFO  Resources.Base - Id: 7134646
+Amount: 1490 USD
+Card Number: 7890
+Name: Vikram
+Date: 11/11/2020
+16:10:48.531 [main] INFO  Resources.Base - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:10:48.535 [main] INFO  Resources.Base - The expected amount for the laptop is-->1490 USD
+16:10:48.535 [main] INFO  Resources.Base - The purchase amount for the laptop is-->1490 USD

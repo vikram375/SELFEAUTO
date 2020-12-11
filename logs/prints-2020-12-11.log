@@ -1,0 +1,37 @@
+12:16:37.148 [main] INFO  Resources.Base - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+12:16:37.156 [main] INFO  Resources.Base - Order details are as follows -->
+12:16:37.156 [main] INFO  Resources.Base - Id: 7065639
+Amount: 0 USD
+Card Number: 7890
+Name: Vikram
+Date: 11/11/2020
+12:16:37.156 [main] INFO  Resources.Base - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+12:16:37.166 [main] INFO  Resources.Base - The expected amount for the laptop is-->0
+12:16:37.166 [main] INFO  Resources.Base - The purchase amount for the laptop is-->0 USD
+12:17:55.411 [main] INFO  Resources.Base - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+12:17:55.421 [main] INFO  Resources.Base - Order details are as follows -->
+12:17:55.421 [main] INFO  Resources.Base - Id: 652593
+Amount: 1490 USD
+Card Number: 7890
+Name: Vikram
+Date: 11/11/2020
+12:17:55.421 [main] INFO  Resources.Base - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+12:17:55.429 [main] INFO  Resources.Base - The expected amount for the laptop is-->1490
+12:17:55.429 [main] INFO  Resources.Base - The purchase amount for the laptop is-->1490 USD
+15:52:31.983 [main] INFO  Resources.Base - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+15:52:31.984 [main] INFO  Resources.Base - Order details are as follows -->
+15:52:31.984 [main] INFO  Resources.Base - Id: 5896856
+Amount: 1490 USD
+Card Number: 7890
+Name: Vikram
+Date: 11/11/2020
+15:52:31.984 [main] INFO  Resources.Base - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+15:52:31.994 [main] INFO  Resources.Base - The expected amount for the laptop is-->1490
+15:52:31.995 [main] INFO  Resources.Base - The purchase amount for the laptop is-->1490 USD
+16:04:47.437 [main] INFO  Resources.Base - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:04:47.437 [main] INFO  Resources.Base - Order details are as follows -->
+16:04:47.437 [main] INFO  Resources.Base - Id: 5788206
+Amount: 3680 USD
+Card Number: 7890
+Name: Vikram
+Date: 11/11/2020
